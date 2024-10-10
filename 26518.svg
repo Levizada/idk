@@ -3,5 +3,5 @@
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="50" height="50" viewBox="0 0 50 50" preserveAspectRatio="xMidYMid meet">
-    <circle cx="25" cy="25" r="25" fill="#000000" />
+    <circle cx="25" cy="25" r="25" fill="#FFFFFF" />
 </svg>
